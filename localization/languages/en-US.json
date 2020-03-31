@@ -14,10 +14,10 @@
         "saveImageAs": "Save Image As",
         "searchWith": "Search with %s", //%s will be replaced with the name of the current search engine
         "copyLink": "Copy Link",
-        "selectAll": "Select All", 
-        "undo": "Undo", 
-        "redo": "Redo", 
-        "cut": "Cut", 
+        "selectAll": "Select All",
+        "undo": "Undo",
+        "redo": "Redo",
+        "cut": "Cut",
         "copy": "Copy", //this is a verb (as in "copy the currently-selected text")
         "paste": "Paste",
         "goBack": "Go Back",
@@ -205,6 +205,7 @@
         /* Autofill settings */
         "settingsPasswordAutoFillHeadline": "Password Auto-Fill",
         "settingsSelectPasswordManager": "Choose one of the supported password managers:",
+        "settingsAutofillExplanation": "Use the shortcut or press on the key symbol to autofill a known password for a website",
         /* Password manager setup */
         "passwordManagerSetupHeading": "Finish setting up %p to use Autofill",
         "passwordManagerSetupStep1": {
